@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/warrengfoofight" target="blank"><img src="https://img.shields.io/twitter/follow/warrengfoofight?logo=twitter&style=for-the-badge" alt="warrengfoofight" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Web Application](github.com/portfolio)
+- 🔭 I’m currently working on [League Page](https://github.com/WarrenGSlice/league-page)
 
 - 🌱 I’m currently learning **Python**
 
