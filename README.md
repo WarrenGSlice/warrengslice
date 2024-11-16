@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/warrengfoofight" target="blank"><img src="https://img.shields.io/twitter/follow/warrengfoofight?logo=twitter&style=for-the-badge" alt="warrengfoofight" /></a> </p>
 
-- 🔭 I’m currently working on ([Resume-Builder-App](https://github.com/WarrenGSlice/resume-builder-app))
+- 🔭 I’m currently working on [Resume-Builder-App](https://github.com/WarrenGSlice/resume-builder-app)
 
 - 🌱 I’m currently learning **Python**
 
